@@ -1,0 +1,180 @@
+body::-webkit-scrollbar{
+    width:1rem;
+}
+
+body::-webkit-scrollbar-track {
+    background:rgb(143, 143, 235);
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsiY0JS6G8lbso43M7iR-qovbFuvCz1oOk3w&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family:cursive;
+}
+.a{
+    color:rgb(221, 168, 158);
+    font-family:Chopin Script;
+    font-size:60px;
+
+
+}
+
+li{
+    display:inline-block;
+    margin-left:80px;
+    color: white;
+    align-items: right;
+    padding-top: 10px;
+    padding-bottom:5px;
+    background-color: rgb(48, 148, 138);
+    border-radius: 8px;
+
+}
+
+li a:hover{
+    background-color: white;
+    color:rgb(48, 148, 138);
+    transition: all 0.3s linear;
+}
+
+ul{
+    text-align: center;
+    font-size: 40px;
+}
+
+.b{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-decoration: none;
+}
+
+.c{
+    border: 100px;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    padding-top:100px;
+    padding-bottom: 100px;
+    border-style: solid;
+    border-color: azure;
+    border-width: 1px;
+    box-shadow: 0 0 25px;
+    border-radius:25px;
+
+}
+
+.d{
+    height: 120px;
+    width: 750px;
+    color:white;
+    padding-left:250px;
+    padding-top:100px;
+
+}
+
+.contain{
+    display: flex;
+}
+
+.e{
+    padding-right:50px;
+    padding-left:12px
+}
+
+.nav{
+    position:relative;
+    border-radius: 10px;
+}
+
+.f{
+    color: white;
+    font-size: 25px;
+    text-wrap: wrap;
+
+}
+
+.g{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+.h{
+    font-size: 20px;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    border-width: 0px;
+}
+
+select{
+    font-size: 20px ;
+}
+
+.i{
+    border-width: 5px;
+    box-shadow: 0 0 20px aqua;
+    border-color: white;
+    border-style: solid;
+    padding-top:-20px;
+}
+
+button{
+    height:40px;
+    width: 70px;
+    font-size: 20px;
+    padding-right:70px;
+    border-radius: 10px;
+}
+
+.j{
+    padding-top: 250px;
+    font-size: 20px;
+   padding-left:70px;
+
+}
+
+.k{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.l{
+    color:white;
+    font-size: 25px;
+    padding-top:15px;
+    padding-left:10px;
+
+}
+
+.m{
+    padding-top: 19px;
+
+}
+
+.n{
+    font-size:20px;
+
+}
+
+.card{
+    width: 1000px;
+    background-color:rgb(45, 59, 59);
+    border-radius:15px;
+
+}
+
+
+.o{
+padding-left: 5px;
+padding-top: 20px;
+}
+
+.o img{
+    padding-right:15px;
+    border-radius: 10px;
+}
+
